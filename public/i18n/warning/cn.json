@@ -1,0 +1,8 @@
+{
+  "error": "错误",
+  "warning": "警告",
+  "network_error": "网络错误",
+  "file_not_found": "文件未找到",
+  "permission_denied": "权限被拒绝",
+  "server_unavailable": "服务器不可用"
+}

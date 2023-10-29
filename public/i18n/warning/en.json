@@ -1,0 +1,8 @@
+{
+  "error": "Error",
+  "warning": "Warning",
+  "network_error": "Network Error",
+  "file_not_found": "File not found",
+  "permission_denied": "Permission denied",
+  "server_unavailable": "Server unavailable"
+}
